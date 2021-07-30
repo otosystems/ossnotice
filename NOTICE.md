@@ -837,7 +837,7 @@ __psycopg2-binary__
  * GNU Lesser General Public License v2.1
 
 __uwsgi__
- * https://pypi.org/project/psycopg2-binary/
+ * https://github.com/unbit/uwsgi
  * GPL2 w/ LINKING EXCEPTION
 
 ______
