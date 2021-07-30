@@ -75,75 +75,55 @@ __com.android.tools.build__
  * Apache License 2.0
 
 __github.com/golang/mock__
- * github.com/golang/mock
- * Apache License 2.0
-
-__github.com/golang/mock__
- * github.com/golang/mock
+ * https://github.com/golang/mock
  * Apache License 2.0
 
 __github.com/golang/protobuf__
- * github.com/golang/protobuf
- * BSD-3-Clause
-
-__github.com/golang/protobuf__
- * github.com/golang/protobuf
+ * https://github.com/golang/protobuf
  * BSD-3-Clause
 
 __github.com/google/go-cmp__
- * github.com/google/go-cmp
+ * https://github.com/google/go-cmp
  * BSD-3-Clause
 
 __github.com/google/uuid__
- * github.com/google/uuid
- * BSD-3-Clause
-
-__github.com/google/uuid__
- * github.com/google/uuid
+ * https://github.com/google/uuid
  * BSD-3-Clause
 
 __github.com/pkg/errors__
- * github.com/pkg/errors
- * BSD-2-Clause
-
-__github.com/pkg/errors__
- * github.com/pkg/errors
+ * https://github.com/pkg/errors
  * BSD-2-Clause
 
 __golang.org/x/crypto__
- * golang.org/x/crypto
- * BSD-3-Clause
-
-__golang.org/x/crypto__
- * golang.org/x/crypto
+ * https://golang.org/x/crypto
  * BSD-3-Clause
 
 __golang.org/x/net__
- * golang.org/x/net
+ * https://golang.org/x/net
  * BSD-3-Clause
 
 __golang.org/x/sync__
- * golang.org/x/sync
+ * https://golang.org/x/sync
  * BSD-3-Clause
 
 __golang.org/x/sys__
- * golang.org/x/sys
+ * https://golang.org/x/sys
  * BSD-3-Clause
 
 __golang.org/x/text__
- * golang.org/x/text
+ * https://golang.org/x/text
  * BSD-3-Clause
 
 __golang.org/x/tools__
- * golang.org/x/tools
+ * https://golang.org/x/tools
  * BSD-3-Clause
 
 __golang.org/x/xerrors__
- * golang.org/x/xerrors
+ * https://golang.org/x/xerrors
  * BSD-3-Clause
 
 __google.golang.org/protobuf__
- * google.golang.org/protobuf
+ * https://google.golang.org/protobuf
  * BSD-3-Clause
 
 __com.google.code.findbugs__
