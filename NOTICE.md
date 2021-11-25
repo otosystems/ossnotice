@@ -1,5 +1,5 @@
 # DeepTone
-Copyright (c) OTO Systems Inc.. All rights reserved.
+Copyright (c) Unity Technologies. All rights reserved.
 
 The following Open Source Software is used in DeepTone products. It is distributed and is provided under other licenses and/or has source available from other locations.
 
